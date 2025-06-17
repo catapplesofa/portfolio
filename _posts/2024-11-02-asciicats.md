@@ -18,6 +18,8 @@ comments: true
 
 During a mentorship program with the Mass Cybersecurity Center, Yuchan came up with an idea of making a honeypot filled with cute cat emojis and see what hackers react to them through command lines. She planned to know more about hacker psychology through this project. Although the hacker part failed because most attacks turned out to be automated and her server could not be accessed at all afterwards, the ASCII cats Yuchan created for the project are exhibitable. Yuchan was happy that the ASCII cats brought a slight of playful and joy to the symbols.
 
+
+![A cute ASCII cat]({{ site.baseurl }}/assets/images/hi.jpg)
 ![A cute ASCII cat]({{ "/assets/images/hi.jpg" | relative_url }})
 ![A cute ASCII cat]({{ "/assets/images/cappuccino.jpg" | relative_url }})
 ![A cute ASCII cat]({{ "/assets/images/spa.jpg" | relative_url }})
