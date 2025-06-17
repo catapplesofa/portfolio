@@ -28,15 +28,11 @@ During the summer break, Yuchan took classes in Chinese Ink Painting with Master
 Boston
 During the fall semester in Boston, through Independent Studies with Professor Ethan Murrow from the SMFA, Yuchan explored composition, abstraction, and styles in her own creation. Through this valuable experience, she stepped outside the habit of drawing things as they are, which she acquired through her over ten years of sketching experience.
 
-![mysticklake](/assets/images/mysticlake.png)
-
-![whitemountains](/assets/images/whitemountains.jpg)
-
-![movingtrees](/assets/images/movingtrees.jpg)
-
-![abstraction](/assets/images/abstractlandscape.jpg)
-
-![1tree](/assets/images/tree.jpg)
+![mysticklake]({{ "/assets/images/mysticlake.png" | relative_url }})
+![whitemountains]({{ "/assets/images/whitemountains.jpg" | relative_url }})
+![movingtrees]({{ "/assets/images/movingtrees.jpg" | relative_url }})
+![abstraction]({{ "/assets/images/abstractlandscape.jpg" | relative_url }})
+![1tree]({{ "/assets/images/tree.jpg" | relative_url }})
 
 ## Final Project:
 Boston
