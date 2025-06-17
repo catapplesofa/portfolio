@@ -11,10 +11,27 @@ layout: base
         <a class="text-sm text-slate-700 underline md:no-underline hover:underline dark:text-slate-100/80" href="{{ '/tags#' | append: tag | relative_url }}">#{{tag}}</a>
         {% endfor %}
       </div>
-      <div class="flex justify-center items-center gap-2 pt-4">
+     <div class="flex justify-center items-center gap-2 pt-4">
         <span class="text-slate-700 dark:text-slate-100/80">{{page.author | default: site.author }}</span>
         <p class="text-slate-700 dark:text-slate-100/80">{{ page.date | date: "%d-%m-%Y" }}</p>
-      </div>
+      </div> 
+
+      {% if page.type %}
+      <p class="text-xs text-slate-700 italic text-center mt-20">Type: {{ page.type}}</p>
+
+      {% endif %}
+
+      {% if page.organization %}
+    <p class="text-xs text-slate-700 italic text-center">Organization: {{ page.organization }}</p>
+
+    {% endif %}
+
+    {% if page.location %}
+      <p class="text-xs text-slate-700 italic text-center mt-20">Location: {{ page.location}}</p>
+
+      {% endif %}
+
+
       <div class="mx-auto p-4">
         {% include sharing.html %}
       </div>
