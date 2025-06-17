@@ -42,9 +42,7 @@ During the fall semester in Boston, through Independent Studies with Professor E
 Boston
 In the end of the half-year project, Yuchan found most joy and inspiration in the spontaneous drawing of trees with pencils. The simplicity of media and the emphasis of lines are perfect to stress the trivial uniqueness of each stroke as they appear on the paper without planning or modification. Nature itself is a collection of spontaneous and random phenomena. Yuchan connects this to each individual’s experience in life: each person could be seen as the drawing, and each of their behavior is seen as the stroke. To visualize the idea, she created a scroll of trees where none of the lines are planned or modified. 
 
-![finaltrees](/assets/images/Trees.jpg)
-
-![finaltreesdetail1](/assets/images/treesdetail1.jpg)
-
-![finaltreesdetail2](/assets/images/treesdetail2.jpg)
+![finaltrees]({{ "/assets/images/Trees.jpg" | relative_url }})
+![finaltreesdetail1]({{ "/assets/images/treesdetail1.jpg" | relative_url }})
+![finaltreesdetail2]({{ "/assets/images/treesdetail2.jpg" | relative_url }})
 
