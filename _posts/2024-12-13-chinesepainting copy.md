@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Spontaneous Landscape Drawing though Traditional Chinese Painting
-image: /assets/images/Trees.jpg
+image: /assets/images/abstractlandscape.jpg
 tags:
   - Artwork
   - Traditional Chinese Painting
