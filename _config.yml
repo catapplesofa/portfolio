@@ -1,10 +1,10 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: YuchanYan.com
+url: https://YuchanYan.com
+baseurl: ""
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Yuchan Yan
+email: angela10547@163.com
+author: Yuchan Yan
 
 lang: en
 
@@ -16,6 +16,7 @@ color: "#13ccf9"
 #   shortname: example-com
 #
 rrss:
-  email: "example@example.cl"
+  email: "angela10547@163.com"
   telegram: "https://t.me/"
   discord: "https://discord.com/"
+  linkedin: "https://www.linkedin.com/in/angela-yan-1a40a92b0/"
