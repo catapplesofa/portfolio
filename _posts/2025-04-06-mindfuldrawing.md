@@ -3,14 +3,14 @@ layout: post
 title: Mindful Drawing in Buddhism Retreat
 image: /assets/images/mdcover.jpg
 tags:
-  - Buddhism Retreat
-  - mindful drawing 
-  - leadership
   - community activity
+  - mindful drawing
+  - Buddhism retreat
+  - leadership
 author: Yuchan
 type: Mindful Activity
 organization: Tufts Buddhism Mindfulness Sangha
-location: Wonderwell Mountain Refuge, New Hampshire
+location: Wonderwell Mountain Refuge, Springfield, New Hampshire
 comments: true
 ---
 
