@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Exploring Spontaneous Landscape Drawing though Traditional Chinese Painting
-image: /assets/images/abstractlandscape.jpg
+image: /assets/images/Trees.jpg
 tags:
-  - Artwork
+  - Art Research
   - Traditional Chinese Painting
   - landscape drawing
   - pencil
@@ -13,7 +13,7 @@ tags:
 author: Yuchan
 type: Personal Project
 organization: SMFA Dean's Research Fund 
-location: Boston, MA
+location: SMFA, Boston, MA; Shanghai, China; Kyoto, Japan
 comments: true
 ---
 
