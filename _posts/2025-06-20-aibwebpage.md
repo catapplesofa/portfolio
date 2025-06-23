@@ -43,8 +43,7 @@ Implemented full-screen video showcasing current games to provide comprehensive 
 - Breathing Animation
 Developed breathing animations for both the title text and cat illustrations. The title animation was created using custom CSS and JavaScript to mirror natural breathing rhythms, while the cat breathing animation was hand-drawn in Procreate. These subtle, continuous motions reinforce the mindfulness theme while adding visual interest throughout the site.
 <video width="600" autoplay muted loop>
-  <source src="/assets/sleepingcat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ '/assets/sleepingcat.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 - Interactive Cat Characters
@@ -58,8 +57,7 @@ Designed single-line scrollable layout that concentrates visual information for 
 - Gamified Feedback Collection
 Transformed traditional static feedback forms into interactive experiences using animated cat emotions as selectable options. Card-flip interactions reveal optional text input, maintaining the playful aesthetic while gathering valuable user insights.
 <video width="600" autoplay muted loop>
-  <source src="/assets/feedback.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ '/assets/feedback.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ## Process & Impact
