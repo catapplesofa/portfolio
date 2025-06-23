@@ -38,23 +38,23 @@ The redesign centers on creating a contemplative digital experience that balance
 - Creates breathing space in the user journey through thoughtful spacing and animation
 
 ## Key Features
-- Header Video
+- Header Video  
 Implemented full-screen video showcasing current games to provide comprehensive overview while maintaining aesthetic cohesion. This creates immediate engagement and immersive viewing experience through optimized video integration and responsive design.
-- Breathing Animation
+- Breathing Animation  
 Developed breathing animations for both the title text and cat illustrations. The title animation was created using custom CSS and JavaScript to mirror natural breathing rhythms, while the cat breathing animation was hand-drawn in Procreate. These subtle, continuous motions reinforce the mindfulness theme while adding visual interest throughout the site.
 <video width="600" autoplay muted loop>
   <source src="{{ '/assets/sleepingcat.mp4' | relative_url }}" type="video/mp4">
 </video>
 
-- Interactive Cat Characters
+- Interactive Cat Characters  
 Created hand-drawn cat illustrations that serve as emotional interfaces throughout the site. Cat animations were created using both AI generation tools and hand-drawn illustrations in Procreate, then implemented as interactive web elements, leveraging familiar cat behaviors to encourage user engagement.
 ![catsec1]({{ "/assets/images/sec1.jpg" | relative_url }})
 
-- Responsive Game Cards
+- Responsive Game Cards  
 Designed single-line scrollable layout that concentrates visual information for focused attention. Implemented smooth horizontal scrolling with touch/mouse compatibility to create excitement through concentrated visual stimuli.
 ![gamecards]({{ "/assets/images/section2.jpg" | relative_url }})
 
-- Gamified Feedback Collection
+- Gamified Feedback Collection  
 Transformed traditional static feedback forms into interactive experiences using animated cat emotions as selectable options. Card-flip interactions reveal optional text input, maintaining the playful aesthetic while gathering valuable user insights.
 <video width="600" autoplay muted loop>
   <source src="{{ '/assets/feedback.mp4' | relative_url }}" type="video/mp4">
