@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Verse Game Archade Webpage
-image: /assets/images/section2.jpg
+image: /assets/images/aibcover.jpg
 tags:
   - web design & development
   - game arcade
