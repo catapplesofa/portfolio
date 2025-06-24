@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Exploring Spontaneous Landscape Drawing though Traditional Chinese Painting
+title: Spontaneous Landscape Drawing - Bridging Chinese Traditional Art and Mindfulness Philosophy
 image: /assets/images/Trees.jpg
 tags:
   - Art Research
   - Traditional Chinese Painting
-  - landscape drawing
-  - pencil
-  - charcoal
-  - simultaneity
+  - spontaneous drawing
   - mindful drawing
 author: Yuchan
 type: Personal Project
@@ -18,15 +15,20 @@ comments: true
 ---
 
 ## Description
-With funding from the SMFA Dean’s Research Fund, this research project aims to explore spontaneous drawing, which is an expression embedded in traditional Chinese painting. The project is inspired by the observation of spontaneity in nature and the harmonious result of such creation. Through exploring spontaneous creation in the scope of traditional Chinese painting, I adapted my observations to a more aesthetic way of drawing landscapes. While creating a set of work, I contemplated the relationship between the spontaneous creation process, nature’s course, and life philosophies that is applicable to every individual.
+With funding from the SMFA Dean's Research Fund, this research project explores spontaneous drawing as an expression deeply embedded in traditional Chinese painting. The project began with my fascination with spontaneity in nature and the harmonious beauty that emerges from unplanned creation. Through this exploration, I sought to understand how spontaneous creation in traditional Chinese painting could inform a more intuitive, aesthetic approach to drawing landscapes—and ultimately, how this artistic process connects to broader life philosophies applicable to individual experience.
 
-## Laying the Foundation of Chinese Ink Painting: 
-Shanghai and Kyoto
-During the summer break, I took classes in Chinese Ink Painting with Master Cui Wen Huan in Shanghai. Through copying the work of  Pu Ru (溥儒) and Lan Ying (蓝瑛), I explored Cun Fa (皴法, the brush techniques used for painting mountains), the relationship between Xu (虚, emptiness) and Shi (实, solidity) in composition, and refined my approach to color application. I also visited Kyoto City Kyocera Museum of Art, Kyoto National Museum, and China Art Museum to see the work of both traditional and contemporary art. 
+My research journey took me across three cities—Shanghai, Kyoto, and Boston—where I combined formal instruction, independent study, and museum research to trace connections between ancient and contemporary artistic practices.
 
-## Exploration of Composition, Abstraction, and Styles:
-Boston
-During the fall semester in Boston, through Independent Studies with Professor Ethan Murrow from the SMFA, I explored composition, abstraction, and styles by creating art. Through this valuable experience, I stepped outside the habit of drawing things as they are, which I acquired through over ten years of sketching experience.
+
+## Laying the Foundation: 
+Shanghai and Kyoto  
+During summer break, I studied Chinese ink painting with Master Cui Wen Huan in Shanghai. Through the traditional practice of copying works by masters Pu Ru (溥儒) and Lan Ying (蓝瑛), I delved into the technical vocabulary of Chinese landscape painting: Cun Fa (皴法) brush techniques for rendering mountains, the compositional relationship between Xu (虚, emptiness) and Shi (实, solidity), and the subtle art of color application.  
+I also visited museums in Kyoto and Shanghai—the Kyoto City Kyocera Museum of Art, Kyoto National Museum, and China Art Museum—to see how traditional principles evolved through both historical and contemporary works.
+
+
+## Pushing Boundaries
+Boston  
+Back in Boston, I worked with Professor Ethan Murrow through Independent Studies to explore composition, abstraction, and experimental approaches to mark-making. This phase challenged me to step outside the representational habits I'd developed through over ten years of sketching experience. Learning to embrace abstraction became crucial to understanding how spontaneity functions as both artistic method and philosophical practice.
 
 ![mysticklake]({{ "/assets/images/mysticlake.png" | relative_url }})
 ![whitemountains]({{ "/assets/images/whitemountains.jpg" | relative_url }})
@@ -34,11 +36,13 @@ During the fall semester in Boston, through Independent Studies with Professor E
 ![abstraction]({{ "/assets/images/abstractlandscape.jpg" | relative_url }})
 ![1tree]({{ "/assets/images/tree.jpg" | relative_url }})
 
-## Final Project:
-Boston
-At the end of the half-year project, I found most joy and inspiration in the spontaneous drawing of trees with pencils. The simplicity of media and the emphasis on lines are perfect to stress the trivial uniqueness of each stroke as they appear on the paper without planning or modification. Nature itself is a collection of spontaneous and random phenomena. I connected this to each individual’s experience in life: each person could be seen as the drawing, and each of their behavior is seen as the stroke. To visualize the idea, I created a scroll of trees where none of the lines are planned or modified.  
+## Discovery and Synthesis
+At the project's conclusion, I found my greatest inspiration in the simplest approach: spontaneous pencil drawings of trees. The directness of pencil on paper—with its emphasis on immediate, unrehearsed lines—perfectly captured what I was seeking. Each stroke appeared without planning or modification, mirroring nature's own collection of spontaneous and random phenomena.  
+This led to my central insight: individual human experience parallels this spontaneous drawing process. Each person can be seen as the artwork itself, with every action and decision representing an unrepeatable mark upon their life's composition. To visualize this philosophy, I created a scroll of trees where no lines were planned or corrected—a visual meditation on embracing the unplanned moments that shape both art and existence.
 
 ![finaltrees]({{ "/assets/images/Trees.jpg" | relative_url }})
 ![finaltreesdetail1]({{ "/assets/images/treesdetail1.jpg" | relative_url }})
 ![finaltreesdetail2]({{ "/assets/images/treesdetail2.jpg" | relative_url }})
+
+This research demonstrates how traditional Chinese aesthetic principles can inform contemporary approaches to mindfulness, offering a bridge between ancient wisdom and modern needs for presence and acceptance.
 
