@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Verse Game Archade Webpage
+title: The Verse Game Arcade Webpage
 image: /assets/images/aibcover.jpg
 tags:
   - web design & development
