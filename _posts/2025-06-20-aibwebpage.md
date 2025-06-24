@@ -40,7 +40,7 @@ The redesign centers on creating a contemplative digital experience that balance
 ## Key Features
 - Header Video  
 Implemented full-screen video showcasing current games to provide comprehensive overview while maintaining aesthetic cohesion. This creates immediate engagement and immersive viewing experience through optimized video integration and responsive design.
-<video class="mx-auto w-2/3" autoplay muted loop>
+<video class="prose-img mx-auto w-2/3" autoplay muted loop>
   <source src="{{ '/assets/headervideo.mov' | relative_url }}" type="video/mp4">
 </video>
 
