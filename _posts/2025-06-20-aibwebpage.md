@@ -27,6 +27,7 @@ As a first-time web designer, developer, and animator, I embraced a self-directe
 - Design Systems: Figma for prototyping and design iteration
 - Frontend Development: HTML, SCSS, and JavaScript implementation
 - Digital Art & Animation: Procreate for custom illustrations and AI-assisted animation generation  
+
 This interdisciplinary approach allowed me to seamlessly integrate technical execution with aesthetic vision, demonstrating adaptability and resourcefulness in acquiring diverse skill sets.
 
 
