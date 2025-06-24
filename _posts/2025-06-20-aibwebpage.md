@@ -52,6 +52,7 @@ Developed breathing animations for both the title text and cat illustrations. Th
 
 - Interactive Cat Characters  
 Created hand-drawn cat illustrations that serve as emotional interfaces throughout the site. Cat animations were created using both AI generation tools and hand-drawn illustrations in Procreate, leveraging familiar cat behaviors to encourage user engagement.
+![catsec1]({{ "/assets/images/catcharacters.jpg" | relative_url }})
 ![catsec1]({{ "/assets/images/sec1.jpg" | relative_url }})
 
 - Responsive Game Cards  
