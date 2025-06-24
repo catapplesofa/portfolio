@@ -60,6 +60,10 @@ Transformed traditional static feedback forms into interactive experiences using
   <source src="{{ '/assets/feedback.mp4' | relative_url }}" type="video/mp4">
 </video>
 
+- Subscription Section 
+Finally, a newsletter signup that invites users to join the community and stay connected with mindful gaming experiences.
+![subscribe]({{ "/assets/images/subscription.jpg" | relative_url }})
+
 ## Process & Impact
 Throughout development, I actively engaged with the Adventure in Breath team through regular design presentations, incorporating feedback to refine both aesthetic and functional elements. This collaborative approach resulted in positive team reception and demonstrated my ability to balance creative vision with stakeholder input.
 
