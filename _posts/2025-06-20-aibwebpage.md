@@ -60,7 +60,7 @@ Transformed traditional static feedback forms into interactive experiences using
   <source src="{{ '/assets/feedback.mp4' | relative_url }}" type="video/mp4">
 </video>
 
-- Subscription Section 
+- Subscription Section  
 Finally, a newsletter signup that invites users to join the community and stay connected with mindful gaming experiences.
 ![subscribe]({{ "/assets/images/subscription.jpg" | relative_url }})
 
