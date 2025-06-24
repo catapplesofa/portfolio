@@ -23,11 +23,10 @@ As an interdisciplinary intern at The Verse, I reimagined and transformed the Ad
 
 ## Learning & Technical Skills
 
-As a first-time web designer, developer, and animator, I embraced a self-directed learning approach, leveraging AI tools (ChatGPT and Claude) alongside traditional resources to master:
+As a first-time web designer, developer, and animator, I embraced a self-directed learning approach, leveraging AI tools (ChatGPT and Claude) to master:
 - Design Systems: Figma for prototyping and design iteration
 - Frontend Development: HTML, SCSS, and JavaScript implementation
-- Digital Art & Animation: Procreate for custom illustrations and AI-assisted animation generation
-- User Experience Research: Feedback collection and iterative design improvements
+- Digital Art & Animation: Procreate for custom illustrations and AI-assisted animation generation  
 This interdisciplinary approach allowed me to seamlessly integrate technical execution with aesthetic vision, demonstrating adaptability and resourcefulness in acquiring diverse skill sets.
 
 
@@ -47,11 +46,11 @@ Developed breathing animations for both the title text and cat illustrations. Th
 </video>
 
 - Interactive Cat Characters  
-Created hand-drawn cat illustrations that serve as emotional interfaces throughout the site. Cat animations were created using both AI generation tools and hand-drawn illustrations in Procreate, then implemented as interactive web elements, leveraging familiar cat behaviors to encourage user engagement.
+Created hand-drawn cat illustrations that serve as emotional interfaces throughout the site. Cat animations were created using both AI generation tools and hand-drawn illustrations in Procreate, leveraging familiar cat behaviors to encourage user engagement.
 ![catsec1]({{ "/assets/images/sec1.jpg" | relative_url }})
 
 - Responsive Game Cards  
-Designed single-line scrollable layout that concentrates visual information for focused attention. Implemented smooth horizontal scrolling with touch/mouse compatibility to create excitement through concentrated visual stimuli.
+Designed single-line scrollable layout that concentrates visual information for focused attention.
 ![gamecards]({{ "/assets/images/section2.jpg" | relative_url }})
 
 - Gamified Feedback Collection  
