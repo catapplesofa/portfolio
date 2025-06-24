@@ -40,6 +40,10 @@ The redesign centers on creating a contemplative digital experience that balance
 ## Key Features
 - Header Video  
 Implemented full-screen video showcasing current games to provide comprehensive overview while maintaining aesthetic cohesion. This creates immediate engagement and immersive viewing experience through optimized video integration and responsive design.
+<video class="mx-auto w-2/3" autoplay muted loop>
+  <source src="{{ '/assets/headervideo.mov' | relative_url }}" type="video/mp4">
+</video>
+
 - Breathing Animation  
 Developed breathing animations for both the title text and cat illustrations. The title animation was created using custom CSS and JavaScript to mirror natural breathing rhythms, while the cat breathing animation was hand-drawn in Procreate. These subtle, continuous motions reinforce the mindfulness theme while adding visual interest throughout the site.
 <video class="mx-auto w-2/3" autoplay muted loop>
