@@ -20,3 +20,7 @@ rrss:
   telegram: "https://t.me/"
   discord: "https://discord.com/"
   linkedin: "https://www.linkedin.com/in/angela-yan-1a40a92b0/"
+
+header_pages:
+  - index.md       # your homepage
+  # - portfolio.md   # your portfolio page
