@@ -19,7 +19,7 @@ comments: true
 
 ## Description
 
-As an interdisciplinary intern at The Verse, I reimagined and transformed the Adventure in Breath webpage into an immersive game arcade experience. This project challenged me to rapidly acquire new technical skills while designing a cohesive aesthetic that promotes mindful gaming through playful, peaceful interactions.
+As an web designer intern at The Verse, I reimagined and transformed the Adventure in Breath webpage into an immersive game arcade experience. This project challenged me to rapidly acquire new technical skills while designing a cohesive aesthetic that promotes mindful gaming through playful, peaceful interactions.
 
 ## Learning & Technical Skills
 
