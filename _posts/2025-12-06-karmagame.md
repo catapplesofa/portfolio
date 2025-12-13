@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Karma Game Design - the Hungry Ghost Realm
-image: /assets/images/clinician.jpg
+image: /assets/images/karma.jpg
 tags:
   - start-up
   - prosocial game
