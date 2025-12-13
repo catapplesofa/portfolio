@@ -21,25 +21,25 @@ This is an independent project.
 
 ## Highlights
 
-- Building the Honeypot
+- Building the Honeypot  
 I launched a server with AWS. I set a security rule that SSH only allows my IP address. I also used Amazon CloudWatch to monitor the activities of the server, including inbound and outbound network.
 
 On the terminal, by logging into the server, I confirmed that the firewall, SSH, and Ping functionalities were working. The server login attempts are monitored with /var/log/auth.log and command lines are monitored with ./bash_history.
 
 Lastly, I set up the ASCII art in the files.
 
-- Attack Occurrence X_X
+- Attack Occurrence X_X  
 On November 17, 2024, I noticed the SSH port was closed and the server was not accessible. After checking the monitoring status, I noticed that there had been 3.5GB of inbound network traffic on the server on November 13. After investigating, I determined it was an SSH brute-force attack. 
 
 ![SSHclosed]({{ "/assets/images/sshclosed.jpg" | relative_url }})
 ![inboundnetwork]({{ "/assets/images/inboundnetwork.jpg" | relative_url }})
 
-- Post Attack
+- Post Attack  
 I then launched a new server with stronger protection. I disabled ping responses, moved SSH to port 2222, and added a VPN in front of the server. The new server continues to receive unknown inbound network traffic, but nothing fatal.
 
 ![newserver]({{ "/assets/images/newserver.jpg" | relative_url }})
 
-- ASCII cats
+- ASCII cats  
 Unfortunately, this component of the research failed because I was not able to access the server after the attack. However,I learned that large-scale attacks are more likely to be conducted by botnet machines instead of humans.
 
 ![A cute ASCII cat]({{ "/assets/images/hi.jpg" | relative_url }})
