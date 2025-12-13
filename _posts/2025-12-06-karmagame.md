@@ -14,7 +14,7 @@ comments: true
 ---
 
 ## Description
- The idea of turning the Six Realms into a game has long been something Ben, our co-founder, wanted to explore. During a jam, I imagined using a dream background to narrate and connect the realms, and decided to continue developing the idea afterward. From June to August, the Karma team finished designing Part I of the Hungry Ghost realm, which includes three quests, and we are now working on the MVP.
+ The idea of turning the Six Realms into a game has long been something Ben, our co-founder, wanted to explore. During a jam, I imagined using a dream background to narrate and connect the realms, and decided to continue developing the idea afterward. From June to August, the Karma team finished designing Part I of the Hungry Ghost realm, which includes three quests.
 ## My Role
  I design the core narrative storyline and game mechanics with Abhilasha (another intern), and contribute concept art when needed.
 ## Highlights
