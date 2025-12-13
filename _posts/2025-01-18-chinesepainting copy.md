@@ -24,9 +24,7 @@ This is an independent project.
 
 ## Highlights
 - Laying the Foundation: Shanghai and Kyoto  
-During summer break, I studied Chinese ink painting with Master Cui Wen Huan in Shanghai. Through the traditional practice of copying works by masters Pu Ru (溥儒) and Lan Ying (蓝瑛), I delved into the technical vocabulary of Chinese landscape painting: Cun Fa (皴法) brush techniques for rendering mountains, the compositional relationship between Xu (虚, emptiness) and Shi (实, solidity), and the subtle art of color application. 
-
-I also visited museums in Kyoto and Shanghai—the Kyoto City Kyocera Museum of Art, Kyoto National Museum, and China Art Museum—to see how traditional principles evolved through both historical and contemporary works.
+During summer break, I studied Chinese ink painting with Master Cui Wen Huan in Shanghai. Through the traditional practice of copying works by masters Pu Ru (溥儒) and Lan Ying (蓝瑛), I delved into the technical vocabulary of Chinese landscape painting: Cun Fa (皴法) brush techniques for rendering mountains, the compositional relationship between Xu (虚, emptiness) and Shi (实, solidity), and the subtle art of color application. I also visited museums in Kyoto and Shanghai—the Kyoto City Kyocera Museum of Art, Kyoto National Museum, and China Art Museum—to see how traditional principles evolved through both historical and contemporary works.
 
 
 - Pushing Boundaries: Boston  
