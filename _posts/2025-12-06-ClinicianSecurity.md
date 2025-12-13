@@ -4,6 +4,7 @@ title: Clinician's Perspective of Impact & Likelihood of Security Failures
 image: /assets/images/clinician.jpg
 tags:
   - Research
+  - cybersecurity usability
 author: Yuchan
 type: Research
 organization: Tufts Security and Privacy Lab
