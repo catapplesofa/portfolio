@@ -18,26 +18,12 @@ comments: true
 ---
 
 ## Description
+This project redesigns and updates the Adventure in Breath Webpage of The Verse into an interactive game arcade experience. The redesign centers on creating a contemplative digital experience that balances playfulness with mindfulness. In the redesign, I focused on transforming passive browsing into engaging interaction, using anthropomorphic cat characters as emotional interfaces, and creating breathing space in the user journey through thoughtful spacing and animation.
 
-As an web designer intern at The Verse, I reimagined and transformed the Adventure in Breath webpage into an immersive game arcade experience. This project challenged me to rapidly acquire new technical skills while designing a cohesive aesthetic that promotes mindful gaming through playful, peaceful interactions.
+## My Role
+I designed the new web-page with figma, drew the cat animations with procreate, and updated the changes on their codebase with HTML, CSS, and Javascript.
 
-## Learning & Technical Skills
-
-As a first-time web designer, developer, and animator, I embraced a self-directed learning approach, leveraging AI tools (ChatGPT and Claude) to master:
-- Design Systems: Figma for prototyping and design iteration
-- Frontend Development: HTML, SCSS, and JavaScript implementation
-- Digital Art & Animation: Procreate for custom illustrations and AI-assisted animation generation  
-
-This interdisciplinary approach allowed me to seamlessly integrate technical execution with aesthetic vision, demonstrating adaptability and resourcefulness in acquiring diverse skill sets.
-
-
-## Design Philosophy
-The redesign centers on creating a contemplative digital experience that balances playfulness with mindfulness. I developed a unique aesthetic language that:
-- Transforms passive browsing into engaging interaction
-- Uses anthropomorphic cat characters as emotional interfaces
-- Creates breathing space in the user journey through thoughtful spacing and animation
-
-## Key Features
+## Highlights
 - Header Video  
 Implemented full-screen video showcasing current games to provide comprehensive overview while maintaining aesthetic cohesion. This creates immediate engagement and immersive viewing experience through optimized video integration and responsive design.
 <video class="prose-img mx-auto w-2/3" autoplay muted loop>
@@ -69,9 +55,7 @@ Transformed traditional static feedback forms into interactive experiences using
 Finally, a newsletter signup that invites users to join the community and stay connected with mindful gaming experiences.
 ![subscribe]({{ "/assets/images/subscription.jpg" | relative_url }})
 
-## Process & Impact
-Throughout development, I actively engaged with the Adventure in Breath team through regular design presentations, incorporating feedback to refine both aesthetic and functional elements. This collaborative approach resulted in positive team reception and demonstrated my ability to balance creative vision with stakeholder input.
-
-This project exemplifies how technology can enhance user engagement while promoting well-being. By combining technical innovation with thoughtful design principles, the webpage creates digital experiences that go beyond mere functionality to facilitate meaningful user interaction and personal reflection.
+## Outcome
+Throughout development, I actively engaged with the Adventure in Breath team through regular design presentations, incorporating feedback to refine both aesthetic and functional elements. This collaborative approach resulted in positive team reception and demonstrated my ability to balance creative vision with stakeholder input. The updated webpage can be found here [Adventure in Breath]{https://www.versebuilding.com/games/aib}
 
 
