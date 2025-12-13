@@ -56,6 +56,6 @@ Finally, a newsletter signup that invites users to join the community and stay c
 ![subscribe]({{ "/assets/images/subscription.jpg" | relative_url }})
 
 ## Outcome
-Throughout development, I actively engaged with the Adventure in Breath team through regular design presentations, incorporating feedback to refine both aesthetic and functional elements. This collaborative approach resulted in positive team reception and demonstrated my ability to balance creative vision with stakeholder input. The updated webpage can be found here [Adventure in Breath]{https://www.versebuilding.com/games/aib}
+Throughout development, I actively engaged with the Adventure in Breath team through regular design presentations, incorporating feedback to refine both aesthetic and functional elements. This collaborative approach resulted in positive team reception and demonstrated my ability to balance creative vision with stakeholder input. The updated webpage can be found here [Adventure in Breath](https://www.versebuilding.com/games/aib)
 
 
