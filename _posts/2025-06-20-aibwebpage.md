@@ -21,7 +21,7 @@ comments: true
 This project redesigns and updates the Adventure in Breath Webpage of The Verse into an interactive game arcade experience. The redesign centers on creating a contemplative digital experience that balances playfulness with mindfulness. In the redesign, I focused on transforming passive browsing into engaging interaction, using anthropomorphic cat characters as emotional interfaces, and creating breathing space in the user journey through thoughtful spacing and animation.
 
 ## My Role
-I designed the new web-page with figma, drew the cat animations with procreate, and updated the changes on their codebase with HTML, CSS, and Javascript.
+I designed the new web-page with figma, drew the cat animations with procreate, and updated the changes on the website's codebase with HTML, CSS, and Javascript.
 
 ## Highlights
 - Header Video  
